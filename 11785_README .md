@@ -1,1 +1,0 @@
-Once the folder is shared with you, you can add it to the root directory of your google drive via "Add Shortcut to Dive"
