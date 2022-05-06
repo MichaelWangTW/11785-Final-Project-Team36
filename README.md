@@ -70,9 +70,9 @@ Train process
 1. Create a folder where you can save the model and specify the folder name in classification.ipynb
 
 2. Select the yaml file under configs folder. Modify the yaml file to fit your setting. Specify the yaml file path in classification.ipynb
-
+![config_path](./images/yaml_config_path.png)
 3. Select the model described above and specify the model name in classification.ipynb
-
+![model](./images/model_name.png)
 4. Execute all cells in classification.ipynb 
 
 Test process
@@ -83,6 +83,8 @@ Test process
 Note that there are multiple hyper parameter you can change under the yaml file. Our code will automatically parse the aurguments in yaml file and use it as mdoel parameter. 
 
 Below is the example of yaml file. 
+
+![yaml_template](./images/yaml.png)
 
 A typical workflow would be like this:
 
